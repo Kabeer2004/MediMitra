@@ -1,0 +1,132 @@
+{
+    "merchantkabeer68@gmail.com": {
+        "family_members": {
+            "varad": {
+                "dob": "2024-10-14",
+                "meal_times": {
+                    "breakfast": "06:08",
+                    "lunch": "13:08",
+                    "dinner": "21:08"
+                },
+                "schedules": [
+                    {
+                        "medicine": "Crocin",
+                        "dosage": "1 pill",
+                        "times": [
+                            "14:47:10",
+                            "21:08"
+                        ]
+                    },
+                    {
+                        "medicine": "Aspirin",
+                        "dosage": "1 pill",
+                        "times": [
+                            "14:43:10",
+                            "21:08"
+                        ]
+                    },
+                    {
+                        "medicine": "TAB_ DEC EDICINE 3",
+                        "dosage": "Momino Night",
+                        "times": [
+                            "06:08",
+                            "14:39:30"
+                        ]
+                    },
+                    {
+                        "medicine": "TAB: DEMO MEDICINE4",
+                        "dosage": "Maming; 1/2 Night",
+                        "times": [
+                            "06:08",
+                            "14:39:40"
+                        ]
+                    },
+                    {
+                        "medicine": "Crocin",
+                        "dosage": "one",
+                        "times": [
+                            "13:08",
+                            "12:06"
+                        ]
+                    },
+                    {
+                        "medicine": "Aspirin",
+                        "dosage": "one",
+                        "times": [
+                            "13:08",
+                            "21:08"
+                        ]
+                    }
+                ]
+            },
+            "sushant": {
+                "dob": "2024-10-06",
+                "meal_times": {
+                    "breakfast": "08:45",
+                    "lunch": "23:46",
+                    "dinner": "21:46"
+                },
+                "schedules": [
+                    {
+                        "medicine": "Paracetamol",
+                        "dosage": "Moming Night",
+                        "times": [
+                            "08:45",
+                            "14:47:20"
+                        ]
+                    }
+                ]
+            },
+            "testingnewmember": {
+                "dob": "2004-12-15",
+                "meal_times": {
+                    "breakfast": "04:58",
+                    "lunch": "20:59",
+                    "dinner": "14:59"
+                },
+                "schedules": [
+                    {
+                        "medicine": "TAB_ DEMO MEDICINE 1",
+                        "dosage": "Morning Night",
+                        "times": [
+                            "04:58",
+                            "20:59"
+                        ]
+                    },
+                    {
+                        "medicine": "CAP: DBUO MEDICINE 2",
+                        "dosage": "Morning Night",
+                        "times": [
+                            "04:58",
+                            "20:59"
+                        ]
+                    },
+                    {
+                        "medicine": "TAB_ DEC EDICINE 3",
+                        "dosage": "Morning Night",
+                        "times": [
+                            "04:58",
+                            "20:59"
+                        ]
+                    },
+                    {
+                        "medicine": "TAB: DEMO MEDICINE4",
+                        "dosage": "Morning; 1/2 Night",
+                        "times": [
+                            "04:58",
+                            "14:59"
+                        ]
+                    },
+                    {
+                        "medicine": "Aspirin",
+                        "dosage": "one",
+                        "times": [
+                            "20:59",
+                            "14:59"
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}
